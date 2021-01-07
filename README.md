@@ -1,16 +1,21 @@
 ### Hola todos 👋
 
-<!--
-**framorac/framorac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Analista Programador e Ingeniero en Informática Chileno.
 
-Here are some ideas to get you started:
+    class Framorac:
+        def __init__(self):
+            self.username = 'framorac'
+            self.name = 'Francisco Mora'
+            self.web = 'https://franciscomora.cl'
+            self.twitter = '@framorac'
+            self.skills = {
+                'frontend': ['HTML', 'CSS', 'Javascript'],
+                'backend': ['PHP', 'Python', 'Java', 'NodeJS'],
+                'database': ['MySQL', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL'],
+                'devops': ['Jenkins', 'Azure', 'AWS'],
+                'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit']
+            }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    if __name__ = '__main__':
+        yo = Framorac()
+
