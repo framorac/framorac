@@ -13,7 +13,7 @@ class Framorac:
             'backend': ['PHP', 'Python', 'Java', 'NodeJS', 'Ruby'],
             'database': ['MySQL', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL', 'Oracle'],
             'devops': ['Jenkins', 'Azure', 'AWS'],
-            'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit', 'SOAPUI']
+            'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit', 'SOAPUI'],
             'testing': ['Test Manager', 'TestLink', 'Mantis'],
             'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer']
         }
