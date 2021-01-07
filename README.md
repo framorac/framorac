@@ -2,7 +2,7 @@
 
 Soy un Analista Programador e Ingeniero en Informática Chileno.
 
-'''
+```python
 class Framorac:
     def __init__(self):
         self.username = 'framorac'
@@ -19,7 +19,7 @@ class Framorac:
 
 if __name__ = '__main__':
     yo = Framorac()
-'''
+```
 
 #### Contacto
 
