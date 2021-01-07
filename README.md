@@ -23,6 +23,6 @@ if __name__ = '__main__':
 
 #### Contacto
 
-1. ![Twitter Follow](https://img.shields.io/twitter/follow/framorac?style=social)
-2. ![GitHub followers](https://img.shields.io/github/followers/framorac?style=social)
-3. ![Mastodon Follow](https://img.shields.io/mastodon/follow/18644?domain=https%3A%2F%2Fmastodon.la&style=social)
+* ![Twitter Follow](https://img.shields.io/twitter/follow/framorac?style=social)
+* ![GitHub followers](https://img.shields.io/github/followers/framorac?style=social)
+* ![Mastodon Follow](https://img.shields.io/mastodon/follow/18644?domain=https%3A%2F%2Fmastodon.la&style=social)
