@@ -8,13 +8,14 @@ class Framorac:
         self.username = 'framorac'
         self.name = 'Francisco Mora'
         self.web = 'https://franciscomora.cl'
-        self.twitter = '@framorac'
         self.skills = {
             'frontend': ['HTML', 'CSS', 'Javascript'],
-            'backend': ['PHP', 'Python', 'Java', 'NodeJS'],
-            'database': ['MySQL', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL'],
+            'backend': ['PHP', 'Python', 'Java', 'NodeJS', 'Ruby'],
+            'database': ['MySQL', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL', 'Oracle'],
             'devops': ['Jenkins', 'Azure', 'AWS'],
-            'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit']
+            'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit', 'SOAPUI']
+            'testing': ['Test Manager', 'TestLink', 'Mantis'],
+            'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer']
         }
 
 if __name__ = '__main__':
