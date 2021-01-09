@@ -16,7 +16,7 @@ class Framorac:
             'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit', 'SOAPUI'],
             'testing': ['Visual Studio Test Manager', 'TestLink', 'Mantis'],
             'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer'],
-            'frameworks': ['Codeigniter', 'Symfony', 'Ruby On Rails', 'Flask', 'Django']
+            'frameworks': ['Codeigniter', 'Symfony', 'Ruby On Rails', 'Flask', 'Django', 'Spring Boot']
         }
 
 if __name__ = '__main__':
