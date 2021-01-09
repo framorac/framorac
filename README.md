@@ -14,8 +14,9 @@ class Framorac:
             'database': ['MySQL', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL', 'Oracle'],
             'devops': ['Jenkins', 'Azure', 'AWS'],
             'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit', 'SOAPUI'],
-            'testing': ['Test Manager', 'TestLink', 'Mantis'],
-            'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer']
+            'testing': ['Visual Studio Test Manager', 'TestLink', 'Mantis'],
+            'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer'],
+            'frameworks': ['Codeigniter', 'Symfony', 'Ruby On Rails', 'Flask', 'Django']
         }
 
 if __name__ = '__main__':
