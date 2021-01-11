@@ -1,6 +1,6 @@
 ### Hola todos 👋
 
-Soy un Analista Programador e Ingeniero en Informática Chileno.
+Soy un Analista Programador e Ingeniero en Informática Chileno 💻.
 
 ```python
 class Framorac:
