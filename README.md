@@ -12,7 +12,7 @@ class Framorac:
             'frontend': ['HTML', 'CSS', 'Javascript'],
             'backend': ['PHP', 'Python', 'Java', 'NodeJS', 'Ruby'],
             'database': ['MySQL', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL', 'Oracle'],
-            'devops': ['Jenkins', 'Azure', 'AWS'],
+            'devops': ['Jenkins', 'Azure', 'AWS', 'GitLab CI', 'GitHub Actions'],
             'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit', 'SOAPUI'],
             'testing': ['Visual Studio Test Manager', 'TestLink', 'Mantis'],
             'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer'],
