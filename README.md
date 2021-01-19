@@ -24,7 +24,7 @@ if __name__ = '__main__':
 ```
 
 #### Stats
-![Framorac's github stats](https://github-readme-stats.vercel.app/api?username=framorac&show_icons=true&theme=dark)
+![Framorac's github stats](https://github-readme-stats.vercel.app/api?username=framorac&show_icons=true&theme=radical)
 
 #### Contacto
 
