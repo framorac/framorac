@@ -23,6 +23,9 @@ if __name__ = '__main__':
     yo = Framorac()
 ```
 
+#### Stats
+![Framorac's github stats](https://github-readme-stats.vercel.app/api?username=framorac&show_icons=true&theme=dark)
+
 #### Contacto
 
 * ![Twitter Follow](https://img.shields.io/twitter/follow/framorac?style=social)
