@@ -26,7 +26,7 @@ if __name__ = '__main__':
 #### Estadísticas
 ![Framorac's github stats](https://github-readme-stats.vercel.app/api?username=framorac&show_icons=true&theme=radical)
 
-#### Lenguajes
+#### Top Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framorac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contacto
