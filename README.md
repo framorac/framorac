@@ -34,3 +34,4 @@ if __name__ = '__main__':
 * ![Twitter Follow](https://img.shields.io/twitter/follow/framorac?style=social)
 * ![GitHub followers](https://img.shields.io/github/followers/framorac?style=social)
 * ![Mastodon Follow](https://img.shields.io/mastodon/follow/18644?domain=https%3A%2F%2Fmastodon.la&style=social)
+* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=framorac.framorac)
