@@ -37,6 +37,10 @@ if __name__ = '__main__':
 #### Mis aportes a proyectos
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=framorac&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+#### Mis Últimas Publicaciones
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 #### Formas de comunicarte conmigo
 
 * ![Twitter Follow](https://img.shields.io/twitter/follow/framorac?style=social)
