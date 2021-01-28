@@ -29,6 +29,10 @@ if __name__ = '__main__':
 #### Top Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framorac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Trofeos
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=framorac&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### Contacto
 
 * ![Twitter Follow](https://img.shields.io/twitter/follow/framorac?style=social)
