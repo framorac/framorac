@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=framorac.framorac)
+![](https://komarev.com/ghpvc/?username=framorac&style=flat-square&color=green)
 ### Hola todos 👋
 
 Soy un Analista Programador e Ingeniero en Informática Chileno 💻.
