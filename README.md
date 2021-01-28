@@ -15,7 +15,7 @@ class Framorac:
 	    'mobile': ['Android', 'Kotlin'],
             'cloud': ['Azure', 'AWS', 'Google Cloud Platform'],
             'testing': ['Visual Studio Test Manager', 'Selenium', 'TestLink', 'Mantis'],
-	    'automation': ['Jenkins', 'GitLab CI/CD', 'GitHub Actions', 'Travis CI'],
+	    'automation': ['Jenkins', 'Bamboo', 'GitLab CI/CD', 'GitHub Actions', 'Travis CI'],
             'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'NPM', 'Composer'],
             'frameworks': ['Codeigniter', 'Symfony', 'Ruby On Rails', 'Flask', 'Django', 'Spring Boot']
         }
