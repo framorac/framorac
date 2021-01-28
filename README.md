@@ -7,7 +7,7 @@ class Framorac:
     def __init__(self):
         self.username = 'framorac'
         self.name = 'Francisco Mora'
-	self.web = 'https://framorac.github.io'
+		self.web = 'https://framorac.github.io'
         self.skills = {
             'frontend': ['HTML', 'CSS'],
             'languages': ['PHP', 'Python', 'Java', 'Javascript', 'Ruby'],
@@ -16,7 +16,7 @@ class Framorac:
             'cloud': ['Azure', 'AWS', 'Google Cloud Platform'],
             'testing': ['Visual Studio Test Manager', 'Selenium', 'TestLink', 'Mantis'],
 			'automation': ['Jenkins', 'GitLab CI/CD', 'GitHub Actions', 'Travis CI'],
-            'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer'],
+            'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'NPM', 'Composer'],
             'frameworks': ['Codeigniter', 'Symfony', 'Ruby On Rails', 'Flask', 'Django', 'Spring Boot']
         }
 
