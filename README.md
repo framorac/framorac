@@ -39,6 +39,8 @@ if __name__ = '__main__':
 
 #### Mis Últimas Publicaciones
 <!-- BLOG-POST-LIST:START -->
+- [Instalar plugin TestNG en Eclipse IDE](https://framorac.github.io/posts/instalar-plugin-testng-en-eclipse-ide/)
+- [Instalar JDK para desarrollo en Java](https://framorac.github.io/posts/instalar-jdk-para-desarrollo-en-java/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Formas de comunicarte conmigo
