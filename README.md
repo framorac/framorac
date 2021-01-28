@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=framorac.framorac)
 ### Hola todos 👋
 
 Soy un Analista Programador e Ingeniero en Informática Chileno 💻.
@@ -27,16 +28,15 @@ if __name__ = '__main__':
 #### Estadísticas
 ![Framorac's github stats](https://github-readme-stats.vercel.app/api?username=framorac&show_icons=true&theme=radical)
 
-#### Top Lenguajes
+#### Mis Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framorac&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Trofeos
+#### Trofeos GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=framorac&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### Contacto
+#### Formas de comunicarte conmigo
 
 * ![Twitter Follow](https://img.shields.io/twitter/follow/framorac?style=social)
 * ![GitHub followers](https://img.shields.io/github/followers/framorac?style=social)
 * ![Mastodon Follow](https://img.shields.io/mastodon/follow/18644?domain=https%3A%2F%2Fmastodon.la&style=social)
-* ![visitors](https://visitor-badge.laobi.icu/badge?page_id=framorac.framorac)
