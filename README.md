@@ -9,12 +9,13 @@ class Framorac:
         self.name = 'Francisco Mora'
 	self.web = 'https://framorac.github.io'
         self.skills = {
-            'frontend': ['HTML', 'CSS', 'Javascript'],
-            'backend': ['PHP', 'Python', 'Java', 'NodeJS', 'Ruby'],
-            'database': ['MySQL', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL', 'Oracle'],
-            'devops': ['Jenkins', 'Azure', 'AWS', 'GitLab CI', 'GitHub Actions'],
-            'automation': ['Selenium', 'JMeter', 'Postman', 'Appium', 'TestNG', 'Nunit', 'SOAPUI'],
-            'testing': ['Visual Studio Test Manager', 'TestLink', 'Mantis'],
+            'frontend': ['HTML', 'CSS'],
+            'languages': ['PHP', 'Python', 'Java', 'Javascript', 'Ruby'],
+            'database': ['MySQL', 'MariaDB', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL', 'Oracle'],
+			'mobile': ['Android', 'Kotlin'],
+            'cloud': ['Azure', 'AWS', 'Google Cloud Platform'],
+            'testing': ['Visual Studio Test Manager', 'Selenium', 'TestLink', 'Mantis'],
+			'automation': ['Jenkins', 'GitLab CI/CD', 'GitHub Actions', 'Travis CI'],
             'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'GitLab', 'BitBucket', 'NPM', 'Composer'],
             'frameworks': ['Codeigniter', 'Symfony', 'Ruby On Rails', 'Flask', 'Django', 'Spring Boot']
         }
