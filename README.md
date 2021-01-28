@@ -35,7 +35,7 @@ if __name__ = '__main__':
 [![trophy](https://github-profile-trophy.vercel.app/?username=framorac&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Mis aportes a proyectos
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=framorac1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=framorac&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 #### Formas de comunicarte conmigo
 
