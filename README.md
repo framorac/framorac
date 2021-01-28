@@ -32,8 +32,10 @@ if __name__ = '__main__':
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=framorac&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Trofeos GitHub
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=framorac&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+#### Mis aportes a proyectos
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=framorac1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 #### Formas de comunicarte conmigo
 
