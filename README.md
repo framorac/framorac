@@ -39,7 +39,8 @@ if __name__ = '__main__':
 
 #### Mis Últimas Publicaciones
 <!-- BLOG-POST-LIST:START -->
-- [Instalar JDK para desarrollo en Java](https://framorac.github.io/posts/como-instalar-debian-bullseye-en-modo-experto/)
+- [Instalar XFCE 4.16 Debian 11 Bullseye](https://framorac.github.io/posts/instalar-xfce-4-16-en-debian/)
+- [Cómo instalar Debian 11 Bullseye en modo experto](https://framorac.github.io/posts/como-instalar-debian-bullseye-en-modo-experto/)
 - [Mi configuración de Emacs](https://framorac.github.io/posts/mi-configuracion-de-emacs/)
 - [Instalar plugin TestNG en Eclipse IDE](https://framorac.github.io/posts/instalar-plugin-testng-en-eclipse-ide/)
 - [Instalar JDK para desarrollo en Java](https://framorac.github.io/posts/instalar-jdk-para-desarrollo-en-java/)
