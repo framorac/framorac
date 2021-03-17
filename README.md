@@ -17,7 +17,7 @@ class Framorac:
 	    'CI/CD': ['Jenkins', 'Bamboo', 'GitLab CI/CD', 'GitHub Actions', 'Azure Devops'],
             'editors': ['Emacs', 'Vim'],
 	    'dependency manager': ['NPM', 'Composer', 'Poetry'],
-	    'control version': ['GIT', 'Bazaar'],
+	    'control version': ['GIT', 'Bazaar', 'SVN'],
             'frameworks': ['Codeigniter', 'Symfony', 'Flask', 'Django', 'JQuery', 'AngularJS', 'TestNG']
         }
 
