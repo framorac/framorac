@@ -4,7 +4,7 @@
 Soy un Analista Programador e Ingeniero en Informática Chileno 💻.
 
 ```python
-class Framorac:
+class Profile:
     def __init__(self):
         self.username = 'framorac'
         self.name = 'Francisco Mora'
@@ -22,7 +22,7 @@ class Framorac:
         }
 
 if __name__ = '__main__':
-    yo = Framorac()
+    yo = Profile()
 ```
 
 #### Estadísticas
