@@ -8,7 +8,7 @@ class Framorac:
     def __init__(self):
         self.username = 'framorac'
         self.name = 'Francisco Mora'
-	self.web = 'https://framorac.github.io'
+	self.web = 'https://www.franciscomora.cl'
         self.skills = {
             'frontend': ['HTML', 'CSS'],
             'languages': ['PHP', 'Python', 'Java', 'Javascript', 'Ruby'],
