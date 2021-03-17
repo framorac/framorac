@@ -11,14 +11,14 @@ class Framorac:
 	self.web = 'https://www.franciscomora.cl'
         self.skills = {
             'frontend': ['HTML', 'CSS'],
-            'languages': ['PHP', 'Python', 'Java', 'Javascript', 'Ruby'],
+            'backend': ['PHP', 'Python', 'Java', 'Javascript'],
             'database': ['MySQL', 'MariaDB', 'SQLite', 'PostgreSQL', 'MongoDB', 'Transact-SQL', 'Oracle'],
-	    'mobile': ['Android', 'Kotlin'],
-            'cloud': ['Azure', 'AWS', 'Google Cloud Platform'],
-            'testing': ['Visual Studio Test Manager', 'Selenium', 'TestLink', 'Mantis'],
-	    'automation': ['Jenkins', 'Bamboo', 'GitLab CI/CD', 'GitHub Actions', 'Travis CI'],
-            'tools': ['Jira', 'Git', 'Emacs', 'Vim', 'NPM', 'Composer'],
-            'frameworks': ['Codeigniter', 'Symfony', 'Ruby On Rails', 'Flask', 'Django', 'Spring Boot']
+            'testing': ['Visual Studio Test Manager', 'Selenium', 'TestLink', 'Mantis', 'ALM', 'Postman', 'SoapUI'],
+	    'CI/CD': ['Jenkins', 'Bamboo', 'GitLab CI/CD', 'GitHub Actions', 'Azure Devops'],
+            'editors': ['Emacs', 'Vim'],
+	    'dependency manager': ['NPM', 'Composer', 'Poetry'],
+	    'control version': ['GIT', 'Bazaar']
+            'frameworks': ['Codeigniter', 'Symfony', 'Flask', 'Django', 'JQuery', 'AngularJS', 'TestNG']
         }
 
 if __name__ = '__main__':
