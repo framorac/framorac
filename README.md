@@ -42,7 +42,7 @@ if __name__ = '__main__':
 - [Instalar XFCE 4.16 Debian 11 Bullseye](https://www.franciscomora.cl/posts/instalar-xfce-4-16-en-debian/)
 - [Cómo instalar Debian 11 Bullseye en modo experto](https://www.franciscomora.cl/posts/como-instalar-debian-bullseye-en-modo-experto/)
 - [Mi configuración de Emacs](https://www.franciscomora.cl/posts/mi-configuracion-de-emacs/)
-- [Instalar plugin TestNG en Eclipse IDE](https://www.franciscomora.cl/posts/instalar-plugin-testng-en-eclipse-ide/)
+- [Instalar plugin TestNG en Eclipse IDE [UPDATE]](https://www.franciscomora.cl/posts/instalar-plugin-testng-en-eclipse-ide/)
 - [Instalar JDK para desarrollo en Java](https://www.franciscomora.cl/posts/instalar-jdk-para-desarrollo-en-java/)
 <!-- BLOG-POST-LIST:END -->
 
