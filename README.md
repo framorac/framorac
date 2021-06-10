@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=framorac&style=flat-square&color=green)
 ### Hola todos 👋
 
-Soy un Analista Programador e Ingeniero en Informática Chileno 💻.
+Soy un Analista Programador e Ingeniero en Informática Chileno 💻. Actualmente trabajando como QA Enginner.
 
 ```python
 class Profile:
