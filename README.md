@@ -39,11 +39,11 @@ if __name__ = '__main__':
 
 #### Mis Últimas Publicaciones
 <!-- BLOG-POST-LIST:START -->
+- [EP02 Mi experiencia usando Archlinux](https://www.franciscomora.cl/posts/ep02-mi-experiencia-usando-archlinux/)
 - [EP01 Iniciando el camino del podcasting](https://www.franciscomora.cl/posts/ep01-iniciando-el-camino/)
 - [Instalar XFCE 4.16 Debian 11 Bullseye](https://www.franciscomora.cl/posts/instalar-xfce-4-16-en-debian/)
 - [Cómo instalar Debian 11 Bullseye en modo experto](https://www.franciscomora.cl/posts/como-instalar-debian-bullseye-en-modo-experto/)
 - [Mi configuración de Emacs](https://www.franciscomora.cl/posts/mi-configuracion-de-emacs/)
-- [Instalar plugin TestNG en Eclipse IDE [UPDATE]](https://www.franciscomora.cl/posts/instalar-plugin-testng-en-eclipse-ide/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Formas de comunicarte conmigo
